@@ -7,6 +7,17 @@ https://github.com/Bhavana568/WADL-PS/tree/main
 https://github.com/omkar2906/WADL/tree/master/src
 
 
+mongo commands:
+npm init -y
+npm i express
+npm i express mongoose body-parser
+npm i ejs
+
+in new terminal: 
+mongosh
+show dbs
+
+
 import webapp2
 
 class MainPage(webapp2.RequestHandler):
